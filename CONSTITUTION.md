@@ -221,6 +221,25 @@ Divine Ecosystem shall evaluate the evidence that materially bears upon the theo
 Historical and Ecclesial Discernment serves the authority of Holy Scripture by assisting faithful theological understanding. It shall never supersede Scripture, establish independent authority, or substitute historical tradition for God's revealed Word.
 
 ---
+Article VI — Constitutional Order of Authority
+
+Section 1 — Constitutional Order
+
+Having established the theological foundation of Divine Ecosystem, this Constitution now declares the constitutional order of authority.
+
+We affirm the one eternal Triune God revealed in Holy Scripture: Father, Son, and Holy Spirit. God alone is the Creator of all things (Genesis 1:1; John 1:1–3), the source of life and truth (Psalm 36:9; John 14:6; John 17:17), and the final authority over creation (Romans 11:36; Revelation 4:11).
+
+Holy Scripture, as the inspired and authoritative revelation of God, is the supreme authority governing Divine Ecosystem.
+
+This Constitution derives its authority from Holy Scripture, remains continually subject to its authority, and serves as the enduring governing charter of Divine Ecosystem.
+
+Every aspect of Divine Ecosystem shall be ordered according to this constitutional order of authority.
+
+All subordinate canonical documents shall be interpreted and exercised in a manner consistent with this Constitution and within the scope of the authority entrusted to them.
+
+No subordinate aspect of Divine Ecosystem may contradict, diminish, or supersede the supreme authority of Holy Scripture or the constitutional principles established by this Constitution.
+
+---
 
 # Constitutional Declaration
 
