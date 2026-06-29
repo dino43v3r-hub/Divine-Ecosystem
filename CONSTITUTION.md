@@ -1,4 +1,4 @@
-# CONSTITUTION.md
+# Divine Ecosystem Constitution
 
 **Version:** 1.0
 **Status:** Canonical
