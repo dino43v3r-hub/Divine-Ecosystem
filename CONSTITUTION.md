@@ -5,9 +5,6 @@
 **Last Updated:** 2026-06-29
 
 ---
-
-# Divine Ecosystem Constitution
-
 ## Preamble
 
 The Divine Ecosystem exists to build a transparent theological reasoning foundation for artificial intelligence that is governed by Holy Scripture, accountable to the historic Christian faith, and committed to intellectual honesty before God and humanity.
