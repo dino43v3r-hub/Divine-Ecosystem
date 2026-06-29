@@ -95,7 +95,7 @@ The project is governed by the following canonical documents.
 
 1. README.md
 2. MANIFESTO.md
-3. FOUNDING_PRINCIPLES.md
+3. FOUNDATIONAL_PRINCIPLES.md
 4. CONSTITUTION.md
 5. GOVERNANCE.md
 6. ARCHITECTURE.md
@@ -185,7 +185,7 @@ Contributors should begin by reading the canonical documents in order.
 
 1. README.md
 2. MANIFESTO.md
-3. FOUNDING_PRINCIPLES.md
+3. FOUNDATIONAL_PRINCIPLES.md
 4. CONSTITUTION.md
 5. GOVERNANCE.md
 
