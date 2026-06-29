@@ -115,7 +115,7 @@ The project follows a constitutional model.
 ```
 Constitution
         ↓
-Founding Principles
+Foundational Principles
         ↓
 Governance
         ↓
