@@ -180,3 +180,9 @@ The purpose of Divine Ecosystem is not to replace the Church, create new revelat
 
 **Scripture First. Reasoning Before Voice. Foundation Before Application. Build Once. Benefit Everywhere.**
 
+---
+
+## Notes
+
+¹ Divine Ecosystem recognizes the historical role of the Synod of Hippo (393 CE) and the Councils of Carthage (397 and 419 CE) in affirming the canon of Scripture. These councils recognized the authority of the canonical Scriptures; they did not create or confer that authority, which belongs to God's revealed Word.
+
