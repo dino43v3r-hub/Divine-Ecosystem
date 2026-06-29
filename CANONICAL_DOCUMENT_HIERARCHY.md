@@ -34,7 +34,15 @@ The Constitution governs enduring principles rather than implementation.
 
 ---
 
-## 3. Governance
+## 3. Foundational Principles
+
+Foundational Principles describe the enduring project philosophy and design principles of Divine Ecosystem.
+
+They operate in submission to Holy Scripture and the Constitution.
+
+---
+
+## 4. Governance
 
 Governance defines how the project is stewarded.
 
@@ -44,7 +52,7 @@ Governance shall always remain consistent with both Holy Scripture and the Const
 
 ---
 
-## 4. Architecture
+## 5. Architecture
 
 Architecture defines how Divine Ecosystem fulfills the constitutional principles established by the Constitution.
 
@@ -54,7 +62,7 @@ Architectural changes shall never violate the enduring principles established by
 
 ---
 
-## 5. Project Workflow
+## 6. Project Workflow
 
 Project Workflow defines the process used to develop and maintain the canonical documents of Divine Ecosystem.
 
@@ -62,7 +70,7 @@ It establishes the standard workflow for discovery, drafting, review, revision, 
 
 ---
 
-## 6. Roadmap
+## 7. Roadmap
 
 The Roadmap defines the planned direction and future development of Divine Ecosystem.
 
@@ -70,7 +78,7 @@ Unlike the Constitution, Architecture, and Governance, the Roadmap is expected t
 
 ---
 
-## 7. Backlog
+## 8. Backlog
 
 The Backlog records proposed work that has not yet been completed.
 

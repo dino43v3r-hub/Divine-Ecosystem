@@ -117,4 +117,4 @@ New discoveries that are not yet ready for canonical adoption should be recorded
 
 # Immediate Next Step
 
-Continue designing **Part II — Constitutional Order** by discovering the remaining constitutional questions before drafting additional constitutional articles.
+Continue designing Part II — Constitutional Order before drafting Article VI.

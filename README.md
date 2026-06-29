@@ -97,14 +97,29 @@ The project is governed by the following canonical documents.
 2. MANIFESTO.md
 3. FOUNDATIONAL_PRINCIPLES.md
 4. CONSTITUTION.md
-5. GOVERNANCE.md
-6. ARCHITECTURE.md
+5. CANONICAL_DOCUMENT_HIERARCHY.md
+6. DOCUMENT_CLASSIFICATION.md
 7. PROJECT_WORKFLOW.md
-8. ROADMAP.md
-9. RESEARCH_VISION.md
-10. BACKLOG.md
+8. PROJECT_PHILOSOPHY.md
+9. PROJECT_MATURITY_MODEL.md
+10. CONTRIBUTION_STANDARDS.md
+11. DECISION_LOG.md
+12. GLOSSARY.md
+13. BACKLOG.md
 
 Each document serves a distinct purpose and should not duplicate the responsibilities of another.
+
+## Planned Documents
+
+The following documents are planned but not yet present as current canonical documents.
+
+* GOVERNANCE.md
+* ARCHITECTURE.md
+* ROADMAP.md
+* RESEARCH_VISION.md
+* ARCHITECTURAL_PRINCIPLES.md
+* COPYRIGHT.md
+* INDEX.md
 
 ---
 
@@ -113,18 +128,26 @@ Each document serves a distinct purpose and should not duplicate the responsibil
 The project follows a constitutional model.
 
 ```
+Holy Scripture
+        ↓
 Constitution
         ↓
 Foundational Principles
+        ↓
+Canonical Document Hierarchy / Document Classification
         ↓
 Governance
         ↓
 Architecture
         ↓
-Implementation
+Project Workflow
+        ↓
+Roadmap / Backlog
         ↓
 Applications
 ```
+
+Governance, Architecture, Roadmap, and some later documents are planned but not yet present.
 
 Higher-level documents govern lower-level documents.
 
@@ -187,7 +210,8 @@ Contributors should begin by reading the canonical documents in order.
 2. MANIFESTO.md
 3. FOUNDATIONAL_PRINCIPLES.md
 4. CONSTITUTION.md
-5. GOVERNANCE.md
+5. CANONICAL_DOCUMENT_HIERARCHY.md
+6. DOCUMENT_CLASSIFICATION.md
 
 Only after understanding the project's governing principles should contributors modify architecture or implementation.
 
