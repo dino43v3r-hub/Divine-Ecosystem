@@ -174,7 +174,7 @@ Historical and Ecclesial Discernment is constitutionally necessary not because G
 
 Holy Scripture is the complete and supreme authority for theological truth. The truth revealed by God does not change. Yet the faithful understanding of that truth may mature as the available evidence is examined more faithfully under the authority of Holy Scripture.
 
-The purpose of Historical and Ecclesial Discernment is therefore not to revise God's truth, but to pursue an increasingly faithful understanding of that unchanging truth through responsible theological reasoning.
+The purpose of Historical and Ecclesial Discernment is therefore not to revise God's revealed truth, but to pursue an increasingly faithful understanding of that unchanging truth through responsible theological reasoning.
 
 ---
 
@@ -194,7 +194,7 @@ Accordingly, Historical and Ecclesial Discernment exists to assist faithful theo
 
 The historic witness of the Church provides an enduring testimony to the Church's pursuit of faithful understanding under Holy Scripture.
 
-The ecumenical creeds, historic councils, Church Fathers, confessional traditions, the work of faithful theologians, and other historically significant Christian writings and documents may provide evidence that materially bears upon the theological question under consideration.
+The ecumenical creeds, historic councils, Church Fathers, confessional traditions, the work of faithful theologians, and other historically significant Christian writings and documents may, where materially relevant to the theological question under consideration, provide evidence that materially bears upon that question.
 
 Such testimony shall be evaluated respectfully, transparently, and honestly, while remaining permanently subordinate to the supreme authority of Holy Scripture.
 
@@ -219,6 +219,8 @@ This Article establishes the enduring constitutional principles governing Histor
 Divine Ecosystem shall evaluate the evidence that materially bears upon the theological question under consideration, always under the supreme authority of Holy Scripture, seeking not to change God's truth but to understand it more faithfully.
 
 Historical and Ecclesial Discernment serves the authority of Holy Scripture by assisting faithful theological understanding. It shall never supersede Scripture, establish independent authority, or substitute historical tradition for God's revealed Word.
+
+---
 
 # Constitutional Declaration
 
