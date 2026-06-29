@@ -162,6 +162,63 @@ Theological confidence shall remain proportionate to the strength of the biblica
 This Article establishes the enduring hermeneutical obligations governing Divine Ecosystem's evaluation of theological reasoning under Holy Scripture. It intentionally defines constitutional principles rather than architectural methods, thereby preserving the project's ability to mature while remaining permanently accountable to the authority of God's revealed Word.
 
 ---
+# Article V — Historical and Ecclesial Discernment
+
+## Constitutional Question
+
+**What enduring principles shall govern Divine Ecosystem's historical and ecclesial discernment in the faithful evaluation of theological questions under the supreme authority of Holy Scripture?**
+
+### Section 1 — Purpose of Historical and Ecclesial Discernment
+
+Historical and Ecclesial Discernment is constitutionally necessary not because God's revelation is incomplete, but because human understanding is finite.
+
+Holy Scripture is the complete and supreme authority for theological truth. The truth revealed by God does not change. Yet the faithful understanding of that truth may mature as the available evidence is examined more faithfully under the authority of Holy Scripture.
+
+The purpose of Historical and Ecclesial Discernment is therefore not to revise God's truth, but to pursue an increasingly faithful understanding of that unchanging truth through responsible theological reasoning.
+
+---
+
+### Section 2 — Theological Questions and Material Evidence
+
+Divine Ecosystem shall begin with the theological question under consideration.
+
+It shall evaluate the evidence that materially bears upon that question under the supreme authority of Holy Scripture.
+
+The theological question determines what evidence is materially relevant to faithful theological reasoning. Evidence shall not be gathered merely because it exists, but because it contributes meaningfully to understanding the question before Scripture.
+
+Accordingly, Historical and Ecclesial Discernment exists to assist faithful theological reasoning by evaluating the evidence materially relevant to the theological question rather than by accumulating information without constitutional purpose.
+
+---
+
+### Section 3 — The Historic Witness of the Church
+
+The historic witness of the Church provides an enduring testimony to the Church's pursuit of faithful understanding under Holy Scripture.
+
+The ecumenical creeds, historic councils, Church Fathers, confessional traditions, the work of faithful theologians, and other historically significant Christian writings and documents may provide evidence that materially bears upon the theological question under consideration.
+
+Such testimony shall be evaluated respectfully, transparently, and honestly, while remaining permanently subordinate to the supreme authority of Holy Scripture.
+
+Neither historical consensus, institutional authority, nor historical prevalence shall determine theological truth. Every historical witness remains subject to evaluation under the authority of Holy Scripture.
+
+---
+
+### Section 4 — Maturity of Understanding
+
+Because human understanding is finite, faithful theological understanding may mature through responsible study.
+
+Such maturity does not alter God's revelation, diminish the authority of Holy Scripture, or establish new revelation. Rather, it reflects the continuing responsibility of the Church to seek an increasingly faithful understanding of the truth God has revealed.
+
+Historical and Ecclesial Discernment therefore exists to assist this ongoing pursuit of faithful understanding through transparent, responsible, and biblically accountable evaluation of the evidence materially relevant to each theological question.
+
+---
+
+### Constitutional Principle
+
+This Article establishes the enduring constitutional principles governing Historical and Ecclesial Discernment within Divine Ecosystem.
+
+Divine Ecosystem shall evaluate the evidence that materially bears upon the theological question under consideration, always under the supreme authority of Holy Scripture, seeking not to change God's truth but to understand it more faithfully.
+
+Historical and Ecclesial Discernment serves the authority of Holy Scripture by assisting faithful theological understanding. It shall never supersede Scripture, establish independent authority, or substitute historical tradition for God's revealed Word.
 
 # Constitutional Declaration
 
@@ -176,8 +233,6 @@ This Constitution intentionally governs enduring theological and ethical princip
 The purpose of Divine Ecosystem is not to replace the Church, create new revelation, or diminish the responsibility of individual believers before God. Its purpose is to strengthen theological understanding through transparent reasoning, responsible methodology, faithful hermeneutics, and disciplined evaluation of the available evidence under the supreme authority of Holy Scripture.
 
 **Scripture First. Reasoning Before Voice. Foundation Before Application. Build Once. Benefit Everywhere.**
-
----
 
 ## Notes
 
