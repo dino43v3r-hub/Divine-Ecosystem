@@ -288,7 +288,13 @@ Technology, architecture, and applications will evolve, but the project's govern
 ## Prohibits
 
 * Embedding temporary engineering decisions into constitutional governance.
-* Revising constitutional principles merely because implementation changes.
+* Revising constitutional principles merely because implementation Principle XIII — Discernment Before Growth
+
+Theological growth requires discernment. New discoveries, patterns, interpretations, or insights must be tested before they become part of the shared theological reasoning of Divine Core.
+
+Discovery alone does not establish theological truth. Growth occurs through faithful evaluation under Holy Scripture, the Constitution, sound hermeneutics, historical and ecclesial discernment, and coherent theological reasoning.
+
+This principle governs the maturation of Divine Core while allowing the methods and architecture used to support that maturation to evolve over time.
 
 ---
 
