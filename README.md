@@ -217,11 +217,13 @@ Only after understanding the project's governing principles should contributors 
 
 ---
 
-# License
+## License
 
-Licensing and intellectual property guidance will be defined before the first public release.
+This repository is currently released under **All Rights Reserved**.
 
-Until that time, all rights remain reserved unless explicitly stated otherwise.
+The source code is publicly visible for transparency and collaboration discussions only.
+
+No permission is granted to copy, modify, redistribute, or use this software without written permission from the copyright holder.
 
 ---
 
