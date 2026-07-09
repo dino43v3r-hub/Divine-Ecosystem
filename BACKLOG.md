@@ -49,6 +49,29 @@ Completion of a backlog item should result in the appropriate canonical document
 
 ---
 
+# Architectural Discoveries
+
+The following notes preserve current architectural discoveries and future design direction. They are not canonical doctrine and should be tested, refined, or relocated into `ARCHITECTURE.md`, `ARCHITECTURAL_PRINCIPLES.md`, or another appropriate document when the architecture matures.
+
+## Divine Core, Divine Pattern, and Shepherd
+
+* [ ] Treat Divine Core as a governed theological reasoning foundation, not as a conclusion engine. Its role is to produce the current state of faithfully governed understanding based on available evidence under Holy Scripture.
+* [ ] Design Divine Core for continual re-evaluation. New evidence from Divine Pattern may require re-discernment of previously governed understanding.
+* [ ] Preserve the distinction between Scripture's governing role throughout every stage of reasoning and its final canonical validation role after synthesis.
+* [ ] Recognize that Divine Pattern and Shepherd are temporarily cross-wired because Divine Core does not yet exist. This may be acceptable during early development, provided it remains temporary and visible.
+* [ ] Mature the long-term architecture so Divine Pattern gathers source material, discovers candidate patterns, sends evidence to Divine Core, receives a governed judgment, and then writes in Divine Pattern voice.
+* [ ] Mature Divine Core so it evaluates submitted patterns as faithful, valid, uncertain, rejected, or needing more evidence.
+* [ ] Mature Shepherd so it gathers the human situation, builds temporary session synthesis, sends only that synthesis to Divine Core, receives theological guidance, and speaks in Shepherd voice.
+* [ ] Ensure Shepherd does not send raw personal human data to Divine Core for permanent retention. Divine Core may grow in theological understanding, but not in personal knowledge about individuals.
+* [ ] Prepare application submissions according to each application's purpose before submitting material to Divine Core. Divine Pattern may include raw source evidence when Divine Core needs enough evidence to independently test proposed patterns.
+* [ ] Design Divine Core with separate reasoning lenses or filters, including ethics, practical theology, theology, pattern validation, logic/coherence, historical/ecclesial discernment, and confidence/uncertainty.
+* [ ] Keep ethics and practical theology distinct. Ethics asks what moral significance is present. Practical theology asks how faithful understanding may be lived or made usable for human beings.
+* [ ] Keep process order distinct from authority order. Divine Core may begin processing with the observation or evidence presented, while Holy Scripture remains the supreme authority throughout.
+* [ ] Evolve Shepherd from a single-submit webpage into a guided pastoral conversation that asks clarifying questions, builds temporary session understanding, and then requests Divine Core theological guidance.
+* [ ] Keep future implementation cost-aware by minimizing repeated AI/API calls through reusable source storage, structured synthesis, and automated validation where possible.
+
+---
+
 # Documentation
 
 * [ ] Review every canonical document for consistency.
