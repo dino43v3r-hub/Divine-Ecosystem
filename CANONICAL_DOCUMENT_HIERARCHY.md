@@ -46,7 +46,7 @@ They operate in submission to Holy Scripture and the Constitution.
 
 ---
 
-## 4. Governance (`GOVERNANCE.md`, planned)
+## 4. Governance (`GOVERNANCE.md`)
 
 Governance defines how the project is stewarded.
 

@@ -93,21 +93,22 @@ Applications may not redefine theological conclusions established through Divine
 
 # Canonical Documents
 
-The project is governed by the following canonical documents.
+The project is governed by the following 14 canonical documents.
 
 1. README.md
 2. MANIFESTO.md
 3. FOUNDATIONAL_PRINCIPLES.md
 4. CONSTITUTION.md
 5. CANONICAL_DOCUMENT_HIERARCHY.md
-6. DOCUMENT_CLASSIFICATION.md
-7. PROJECT_WORKFLOW.md
-8. PROJECT_PHILOSOPHY.md
-9. PROJECT_MATURITY_MODEL.md
-10. CONTRIBUTION_STANDARDS.md
-11. DECISION_LOG.md
-12. GLOSSARY.md
-13. BACKLOG.md
+6. GOVERNANCE.md
+7. DOCUMENT_CLASSIFICATION.md
+8. PROJECT_WORKFLOW.md
+9. PROJECT_PHILOSOPHY.md
+10. PROJECT_MATURITY_MODEL.md
+11. CONTRIBUTION_STANDARDS.md
+12. DECISION_LOG.md
+13. GLOSSARY.md
+14. BACKLOG.md
 
 Each document serves a distinct purpose and should not duplicate the responsibilities of another.
 
@@ -117,7 +118,6 @@ The Manifesto states the project's motivating vision. The Foundational Principle
 
 The following documents are planned but not yet present as current canonical documents.
 
-* GOVERNANCE.md
 * ARCHITECTURE.md
 * ROADMAP.md
 * RESEARCH_VISION.md
@@ -159,7 +159,7 @@ Roadmap / Backlog
 Applications
 ```
 
-Governance, Architecture, Roadmap, and some later documents are planned but not yet present.
+Architecture, Roadmap, and some later documents are planned but not yet present.
 
 Higher-level documents govern lower-level documents.
 
@@ -200,11 +200,11 @@ Its usefulness depends entirely upon the faithfulness of its reasoning under Scr
 
 # Current Development Phase
 
-The project is presently establishing its constitutional and theological foundation.
+The project has established its current constitutional, theological, and governance foundations and is preparing for the Architecture phase.
 
 Current priorities include:
 
-* Completing the canonical governing documents.
+* Maintaining the canonical governing documents.
 * Maturing Divine Core.
 * Defining the reasoning architecture.
 * Building reusable reasoning engines.
@@ -224,6 +224,7 @@ Contributors should begin by reading the canonical documents in order.
 4. CONSTITUTION.md
 5. CANONICAL_DOCUMENT_HIERARCHY.md
 6. DOCUMENT_CLASSIFICATION.md
+7. GOVERNANCE.md
 
 Only after understanding the project's governing principles should contributors modify architecture or implementation.
 

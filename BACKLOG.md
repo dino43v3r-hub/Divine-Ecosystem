@@ -29,12 +29,12 @@ Completion of a backlog item should result in the appropriate canonical document
 
 # Governance
 
-* [ ] Complete `GOVERNANCE.md`.
-* [ ] Define project stewardship.
-* [ ] Define constitutional amendment procedures.
-* [ ] Define canonical review procedures.
-* [ ] Define contributor approval process.
-* [ ] Define release approval process.
+* [x] Complete `GOVERNANCE.md`.
+* [x] Define project stewardship.
+* [x] Define constitutional amendment intake, review, documentation, and verification procedures.
+* [x] Define canonical review procedures.
+* [x] Define contributor approval process.
+* [x] Define release approval process.
 
 ---
 
@@ -74,8 +74,8 @@ The following notes preserve current architectural discoveries and future design
 
 # Documentation
 
-* [ ] Review every canonical document for consistency.
-* [ ] Cross-reference canonical documents.
+* [x] Review every canonical document for consistency.
+* [x] Cross-reference canonical documents.
 * [ ] Expand `GLOSSARY.md` as new terminology is established.
 * [ ] Create `INDEX.md` after the canonical document set stabilizes.
 * [ ] Add diagrams illustrating canonical document relationships.
@@ -139,4 +139,4 @@ New discoveries that are not yet ready for canonical adoption should be recorded
 
 # Immediate Next Step
 
-Complete the canonical consistency review before beginning `GOVERNANCE.md`.
+Begin Phase 3 with Architecture discovery and an outline for review before drafting `ARCHITECTURE.md`.
