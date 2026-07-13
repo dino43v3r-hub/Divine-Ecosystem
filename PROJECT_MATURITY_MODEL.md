@@ -2,6 +2,8 @@
 
 # Divine Ecosystem Project Maturity Model
 
+**Status:** Canonical
+
 ## Purpose
 
 This document defines the progressive stages through which Divine Ecosystem is expected to mature.
@@ -9,6 +11,8 @@ This document defines the progressive stages through which Divine Ecosystem is e
 Its purpose is to ensure that the project develops from a stable theological and constitutional foundation rather than through isolated feature development.
 
 Every stage builds upon the work completed before it.
+
+This model describes development order, not governing authority. The authority of Holy Scripture, the Constitution, and subordinate canonical documents is defined in `CANONICAL_DOCUMENT_HIERARCHY.md` and remains unchanged regardless of the stage in which a document is developed.
 
 ---
 
@@ -29,7 +33,7 @@ Establish the project's mission, values, and theological direction.
 Primary Documents:
 
 * Manifesto
-* Founding Principles
+* Foundational Principles
 
 ---
 

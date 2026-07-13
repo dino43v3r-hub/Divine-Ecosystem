@@ -2,6 +2,8 @@
 
 # Divine Ecosystem Decision Log
 
+**Status:** Canonical
+
 ## Purpose
 
 This document preserves the reasoning behind significant architectural, constitutional, governance, and philosophical decisions made during the development of Divine Ecosystem.

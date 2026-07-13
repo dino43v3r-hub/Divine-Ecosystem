@@ -12,6 +12,8 @@
 
 The Foundational Principles define the enduring philosophy of the Divine Ecosystem.
 
+They state the project's normative design and development principles. The Manifesto expresses the motivating vision, while `PROJECT_PHILOSOPHY.md` explains the reasoning philosophy behind these principles.
+
 While the Constitution establishes the governing theological charter of the project, these principles describe how the project reasons, develops, and grows. Every architectural decision, engineering decision, research effort, and application should reflect these principles.
 
 These principles are intended to be stable over time and should change only through careful consideration and constitutional governance.

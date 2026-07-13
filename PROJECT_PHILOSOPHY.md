@@ -2,6 +2,8 @@
 
 # Divine Ecosystem Project Philosophy
 
+**Status:** Canonical
+
 ## Purpose
 
 This document records the enduring design philosophy that guides the development of Divine Ecosystem.
@@ -9,6 +11,8 @@ This document records the enduring design philosophy that guides the development
 While the Constitution establishes theological and constitutional principles, this document explains the reasoning philosophy that shapes every architectural, organizational, and developmental decision throughout the project.
 
 It serves as the intellectual foundation for the project's continued growth.
+
+This document explains the reasoning philosophy behind the project's normative principles. It does not replace the commitments of `MANIFESTO.md`, the requirements of `FOUNDATIONAL_PRINCIPLES.md`, or the governing authority of `CONSTITUTION.md`.
 
 ---
 

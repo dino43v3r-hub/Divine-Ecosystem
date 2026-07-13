@@ -10,6 +10,8 @@
 
 Divine Ecosystem is a research and engineering project dedicated to building **Divine Core**—a transparent theological reasoning foundation for artificial intelligence governed by Holy Scripture.
 
+This README is the repository entry point and document index. It summarizes the project but does not replace the distinct authority or responsibility of the canonical documents listed below.
+
 Rather than creating isolated AI applications that each develop their own theological reasoning, Divine Ecosystem establishes a single, shared reasoning foundation from which multiple applications may inherit.
 
 The project is founded on the conviction that faithful theological reasoning should be:
@@ -109,6 +111,8 @@ The project is governed by the following canonical documents.
 
 Each document serves a distinct purpose and should not duplicate the responsibilities of another.
 
+The Manifesto states the project's motivating vision. The Foundational Principles state its normative design and development principles. Project Philosophy explains the reasoning philosophy behind those principles. This README introduces and indexes those documents without replacing them.
+
 ## Planned Documents
 
 The following documents are planned but not yet present as current canonical documents.
@@ -118,14 +122,22 @@ The following documents are planned but not yet present as current canonical doc
 * ROADMAP.md
 * RESEARCH_VISION.md
 * ARCHITECTURAL_PRINCIPLES.md
-* COPYRIGHT.md
 * INDEX.md
+
+## Legal Documents
+
+The following current legal files exist separately from the canonical governing-document hierarchy.
+
+* COPYRIGHT
+* LICENSE
 
 ---
 
 # Governance Hierarchy
 
 The project follows a constitutional model.
+
+This hierarchy describes governing authority, not development order. Project development stages are defined separately in `PROJECT_MATURITY_MODEL.md`; the order in which documents are developed does not change their governing authority.
 
 ```
 Holy Scripture

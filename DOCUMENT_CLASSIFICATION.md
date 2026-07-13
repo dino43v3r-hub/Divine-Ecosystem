@@ -2,6 +2,8 @@
 
 # Divine Ecosystem Document Classification Guide
 
+**Status:** Canonical
+
 ## Purpose
 
 This document provides a decision framework for determining where new ideas, principles, policies, architectural decisions, and project work belong within the Divine Ecosystem.

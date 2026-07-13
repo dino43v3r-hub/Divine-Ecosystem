@@ -2,6 +2,8 @@
 
 # Divine Ecosystem Backlog
 
+**Status:** Canonical
+
 ## Purpose
 
 The Divine Ecosystem Backlog records proposed work, future enhancements, unfinished discoveries, and long-term development items.
@@ -18,10 +20,8 @@ Completion of a backlog item should result in the appropriate canonical document
 
 ### Part II — Constitutional Order
 
-* [ ] Design the overall structure of Part II before drafting Article VI.
-* [ ] Discover the remaining constitutional questions after the theological foundation.
-* [ ] Determine the purpose and scope of Constitutional Order.
-* [ ] Complete the remaining constitutional articles.
+* [ ] Review the adopted Article VI for consistency with the preceding constitutional articles.
+* [ ] Identify the next constitutional question following Article VI.
 * [ ] Define constitutional amendment principles.
 * [ ] Define constitutional stewardship principles.
 
@@ -85,7 +85,6 @@ The following notes preserve current architectural discoveries and future design
 
 # Intellectual Property
 
-* [ ] Create `COPYRIGHT.md`.
 * [ ] Add copyright notices throughout the project.
 * [ ] Finalize project licensing.
 * [ ] Develop trademark strategy.
@@ -140,4 +139,4 @@ New discoveries that are not yet ready for canonical adoption should be recorded
 
 # Immediate Next Step
 
-Continue designing Part II — Constitutional Order before drafting Article VI.
+Complete the canonical consistency review before beginning `GOVERNANCE.md`.

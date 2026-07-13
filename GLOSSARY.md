@@ -2,6 +2,8 @@
 
 # Divine Ecosystem Glossary
 
+**Status:** Canonical
+
 ## Purpose
 
 This glossary establishes the canonical definitions of key terms used throughout the Divine Ecosystem.

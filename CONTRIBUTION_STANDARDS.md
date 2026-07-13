@@ -2,6 +2,8 @@
 
 # Divine Ecosystem Contribution Standards
 
+**Status:** Canonical
+
 ## Purpose
 
 This document establishes the standards by which every contribution to Divine Ecosystem shall be evaluated before becoming part of the canonical project.

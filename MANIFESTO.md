@@ -8,6 +8,8 @@
 
 # Why Divine Ecosystem Exists
 
+The Manifesto expresses the project's vision, convictions, and commitments. It does not replace the normative requirements established by the Constitution or the Foundational Principles.
+
 Artificial intelligence is becoming increasingly capable of generating theological content.
 
 Yet most systems provide conclusions without revealing the reasoning that produced them.

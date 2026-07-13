@@ -2,6 +2,8 @@
 
 # Divine Ecosystem Project Workflow
 
+**Status:** Canonical
+
 ## Purpose
 
 This document defines the standard development workflow for the canonical documents of Divine Ecosystem.
