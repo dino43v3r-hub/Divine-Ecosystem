@@ -93,7 +93,7 @@ Applications may not redefine theological conclusions established through Divine
 
 # Canonical Documents
 
-The project is governed by the following 15 canonical documents.
+The project is governed by the following 16 canonical documents.
 
 1. README.md
 2. MANIFESTO.md
@@ -102,14 +102,15 @@ The project is governed by the following 15 canonical documents.
 5. CANONICAL_DOCUMENT_HIERARCHY.md
 6. GOVERNANCE.md
 7. ARCHITECTURE.md
-8. DOCUMENT_CLASSIFICATION.md
-9. PROJECT_WORKFLOW.md
-10. PROJECT_PHILOSOPHY.md
-11. PROJECT_MATURITY_MODEL.md
-12. CONTRIBUTION_STANDARDS.md
-13. DECISION_LOG.md
-14. GLOSSARY.md
-15. BACKLOG.md
+8. DIVINE_CORE.md
+9. DOCUMENT_CLASSIFICATION.md
+10. PROJECT_WORKFLOW.md
+11. PROJECT_PHILOSOPHY.md
+12. PROJECT_MATURITY_MODEL.md
+13. CONTRIBUTION_STANDARDS.md
+14. DECISION_LOG.md
+15. GLOSSARY.md
+16. BACKLOG.md
 
 Each document serves a distinct purpose and should not duplicate the responsibilities of another.
 
@@ -151,6 +152,8 @@ Canonical Document Hierarchy / Document Classification
 Governance
         ↓
 Architecture
+        ↓
+Divine Core
         ↓
 Project Workflow
         ↓
@@ -200,12 +203,12 @@ Its usefulness depends entirely upon the faithfulness of its reasoning under Scr
 
 # Current Development Phase
 
-The project has established its current constitutional, theological, governance, and architectural foundations and is preparing for Divine Core discovery.
+The project has established its current constitutional, theological, governance, and architectural foundations, together with the canonical identity of Divine Core.
 
 Current priorities include:
 
 * Maintaining the canonical governing documents.
-* Preparing for Divine Core discovery.
+* Maintaining the canonical identity and boundaries of Divine Core.
 * Maintaining the canonical architecture.
 * Building reusable reasoning engines.
 * Developing future applications from the shared foundation.
@@ -226,6 +229,7 @@ Contributors should begin by reading the canonical documents in order.
 6. DOCUMENT_CLASSIFICATION.md
 7. GOVERNANCE.md
 8. ARCHITECTURE.md
+9. DIVINE_CORE.md
 
 Only after understanding the project's governing principles should contributors modify architecture or implementation.
 

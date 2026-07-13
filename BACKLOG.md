@@ -57,7 +57,7 @@ The following notes preserve remaining architectural discoveries and future desi
 * [ ] Treat Divine Core as a governed theological reasoning foundation, not as a conclusion engine. Its role is to produce the current state of faithfully governed understanding based on available evidence under Holy Scripture.
 * [ ] Design Divine Core for continual re-evaluation. New evidence from Divine Pattern may require re-discernment of previously governed understanding.
 * [ ] Preserve the distinction between Scripture's governing role throughout every stage of reasoning and its final canonical validation role after synthesis.
-* [ ] Recognize that Divine Pattern and Shepherd are temporarily cross-wired because Divine Core does not yet exist. This may be acceptable during early development, provided it remains temporary and visible.
+* [ ] Recognize that Divine Pattern and Shepherd are temporarily cross-wired because Divine Core has not yet been implemented. This may be acceptable during early development, provided it remains temporary and visible.
 * [ ] Mature the long-term architecture so Divine Pattern gathers source material, discovers candidate patterns, sends evidence to Divine Core, receives a governed judgment, and then writes in Divine Pattern voice.
 * [ ] Mature Divine Core so it evaluates submitted patterns as faithful, valid, uncertain, rejected, or needing more evidence.
 * [ ] Mature Shepherd so it gathers the human situation, builds temporary session synthesis, sends only that synthesis to Divine Core, receives theological guidance, and speaks in Shepherd voice.
@@ -138,4 +138,4 @@ New discoveries that are not yet ready for canonical adoption should be recorded
 
 # Immediate Next Step
 
-Await explicit approval to begin Phase 4 with Divine Core discovery.
+Await explicit approval to begin the next documentation phase.

@@ -66,7 +66,15 @@ Architectural changes shall never violate the enduring principles established by
 
 ---
 
-## 6. Project Workflow (`PROJECT_WORKFLOW.md`)
+## 6. Divine Core (`DIVINE_CORE.md`)
+
+Divine Core defines the permanent identity, responsibilities, boundaries, obligations, and relationships of the shared theological reasoning foundation.
+
+Divine Core remains subordinate to Holy Scripture, the Constitution, Governance, and Architecture.
+
+---
+
+## 7. Project Workflow (`PROJECT_WORKFLOW.md`)
 
 Project Workflow defines the process used to develop and maintain the canonical documents of Divine Ecosystem.
 
@@ -74,7 +82,7 @@ It establishes the standard workflow for discovery, drafting, review, revision, 
 
 ---
 
-## 7. Roadmap (`ROADMAP.md`, planned)
+## 8. Roadmap (`ROADMAP.md`, planned)
 
 The Roadmap defines the planned direction and future development of Divine Ecosystem.
 
@@ -82,7 +90,7 @@ Unlike the Constitution, Architecture, and Governance, the Roadmap is expected t
 
 ---
 
-## 8. Backlog (`BACKLOG.md`)
+## 9. Backlog (`BACKLOG.md`)
 
 The Backlog records proposed work that has not yet been completed.
 
@@ -96,6 +104,6 @@ Every canonical document exists for a distinct purpose.
 
 Questions should always be placed into the document whose purpose most naturally answers them.
 
-When uncertainty exists, enduring principles belong in the Constitution, implementation belongs in Architecture, stewardship belongs in Governance, workflow belongs in Project Workflow, planning belongs in the Roadmap, and unfinished work belongs in the Backlog.
+When uncertainty exists, enduring principles belong in the Constitution, enduring structure belongs in Architecture, stewardship belongs in Governance, the identity and boundaries of the shared theological reasoning foundation belong in Divine Core, workflow belongs in Project Workflow, planning belongs in the Roadmap, and unfinished work belongs in the Backlog.
 
 This separation preserves both constitutional stability and architectural flexibility throughout the continued development of Divine Ecosystem.
