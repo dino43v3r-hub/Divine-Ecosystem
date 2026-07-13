@@ -93,7 +93,7 @@ Applications may not redefine theological conclusions established through Divine
 
 # Canonical Documents
 
-The project is governed by the following 14 canonical documents.
+The project is governed by the following 15 canonical documents.
 
 1. README.md
 2. MANIFESTO.md
@@ -101,14 +101,15 @@ The project is governed by the following 14 canonical documents.
 4. CONSTITUTION.md
 5. CANONICAL_DOCUMENT_HIERARCHY.md
 6. GOVERNANCE.md
-7. DOCUMENT_CLASSIFICATION.md
-8. PROJECT_WORKFLOW.md
-9. PROJECT_PHILOSOPHY.md
-10. PROJECT_MATURITY_MODEL.md
-11. CONTRIBUTION_STANDARDS.md
-12. DECISION_LOG.md
-13. GLOSSARY.md
-14. BACKLOG.md
+7. ARCHITECTURE.md
+8. DOCUMENT_CLASSIFICATION.md
+9. PROJECT_WORKFLOW.md
+10. PROJECT_PHILOSOPHY.md
+11. PROJECT_MATURITY_MODEL.md
+12. CONTRIBUTION_STANDARDS.md
+13. DECISION_LOG.md
+14. GLOSSARY.md
+15. BACKLOG.md
 
 Each document serves a distinct purpose and should not duplicate the responsibilities of another.
 
@@ -118,7 +119,6 @@ The Manifesto states the project's motivating vision. The Foundational Principle
 
 The following documents are planned but not yet present as current canonical documents.
 
-* ARCHITECTURE.md
 * ROADMAP.md
 * RESEARCH_VISION.md
 * ARCHITECTURAL_PRINCIPLES.md
@@ -159,7 +159,7 @@ Roadmap / Backlog
 Applications
 ```
 
-Architecture, Roadmap, and some later documents are planned but not yet present.
+Roadmap and some later documents are planned but not yet present.
 
 Higher-level documents govern lower-level documents.
 
@@ -200,13 +200,13 @@ Its usefulness depends entirely upon the faithfulness of its reasoning under Scr
 
 # Current Development Phase
 
-The project has established its current constitutional, theological, and governance foundations and is preparing for the Architecture phase.
+The project has established its current constitutional, theological, governance, and architectural foundations and is preparing for Divine Core discovery.
 
 Current priorities include:
 
 * Maintaining the canonical governing documents.
-* Maturing Divine Core.
-* Defining the reasoning architecture.
+* Preparing for Divine Core discovery.
+* Maintaining the canonical architecture.
 * Building reusable reasoning engines.
 * Developing future applications from the shared foundation.
 
@@ -225,6 +225,7 @@ Contributors should begin by reading the canonical documents in order.
 5. CANONICAL_DOCUMENT_HIERARCHY.md
 6. DOCUMENT_CLASSIFICATION.md
 7. GOVERNANCE.md
+8. ARCHITECTURE.md
 
 Only after understanding the project's governing principles should contributors modify architecture or implementation.
 

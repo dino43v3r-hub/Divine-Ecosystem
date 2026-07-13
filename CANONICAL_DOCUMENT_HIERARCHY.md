@@ -56,7 +56,7 @@ Governance shall always remain consistent with both Holy Scripture and the Const
 
 ---
 
-## 5. Architecture (`ARCHITECTURE.md`, planned)
+## 5. Architecture (`ARCHITECTURE.md`)
 
 Architecture defines how Divine Ecosystem fulfills the constitutional principles established by the Constitution.
 

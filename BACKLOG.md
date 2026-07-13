@@ -40,10 +40,9 @@ Completion of a backlog item should result in the appropriate canonical document
 
 # Architecture
 
-* [ ] Begin `ARCHITECTURE.md` after Governance is complete.
-* [ ] Design the shared theological reasoning foundation.
-* [ ] Design the reasoning pipeline.
-* [ ] Design the evidence evaluation pipeline.
+* [x] Complete `ARCHITECTURE.md` after Governance.
+* [x] Define the shared theological reasoning foundation at the architectural level.
+* [x] Define conceptual reasoning and evidence flows.
 * [ ] Design application interfaces.
 * [ ] Create `ARCHITECTURAL_PRINCIPLES.md` once the architecture has sufficiently matured.
 
@@ -51,7 +50,7 @@ Completion of a backlog item should result in the appropriate canonical document
 
 # Architectural Discoveries
 
-The following notes preserve current architectural discoveries and future design direction. They are not canonical doctrine and should be tested, refined, or relocated into `ARCHITECTURE.md`, `ARCHITECTURAL_PRINCIPLES.md`, or another appropriate document when the architecture matures.
+The following notes preserve remaining architectural discoveries and future design direction. They are not canonical doctrine and should be tested, refined, or relocated into the appropriate future canonical document as the ecosystem matures.
 
 ## Divine Core, Divine Pattern, and Shepherd
 
@@ -139,4 +138,4 @@ New discoveries that are not yet ready for canonical adoption should be recorded
 
 # Immediate Next Step
 
-Begin Phase 3 with Architecture discovery and an outline for review before drafting `ARCHITECTURE.md`.
+Await explicit approval to begin Phase 4 with Divine Core discovery.
